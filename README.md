@@ -1,1 +1,2 @@
 # MAX14920-Eagle-library
+WARNING [NOT TESTED]
